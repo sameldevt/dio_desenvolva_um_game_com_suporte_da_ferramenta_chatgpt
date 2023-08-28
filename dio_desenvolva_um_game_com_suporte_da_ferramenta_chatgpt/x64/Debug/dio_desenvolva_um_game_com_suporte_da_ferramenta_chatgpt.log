@@ -1,0 +1,3 @@
+﻿  main.c
+C:\ws-vs\dio_desenvolva_um_game_com_suporte_da_ferramenta_chatgpt\dio_desenvolva_um_game_com_suporte_da_ferramenta_chatgpt\main.c(9,2): warning C4013: 'system' undefined; assuming extern returning int
+  dio_desenvolva_um_game_com_suporte_da_ferramenta_chatgpt.vcxproj -> C:\ws-vs\dio_desenvolva_um_game_com_suporte_da_ferramenta_chatgpt\x64\Debug\dio_desenvolva_um_game_com_suporte_da_ferramenta_chatgpt.exe
